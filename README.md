@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React Index](https://github.com/facebook/create-react-app).
 
+## This sample was inspired by and followed the tutorial [React Fundamentals](https://www.udemy.com/react-fundamentals/learn/v4/overview)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
